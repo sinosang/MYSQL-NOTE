@@ -1,0 +1,2 @@
+# MYSQL-NOTE
+一个学习MYSQL的笔记
